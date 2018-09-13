@@ -1,4 +1,4 @@
-# Buisness-Website-Project-
+# Business-Website-Project-
 Website for "Canadian BMX" (Project) \\ REPO
 
-## This is good
+## Eg. Changes
