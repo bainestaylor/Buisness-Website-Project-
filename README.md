@@ -5,5 +5,5 @@ Website for "Canadian BMX" (Project) \\ REPO
 
 
 ### To Do:
-- Do this
-- And that
+- []Do this
+  - []And that
