@@ -5,5 +5,6 @@ Website for "Canadian BMX" (Project) \\ REPO
 
 
 ### To Do:
- - Get title for webpage
+ - []Get title for webpage
+  - []Big yeet
  - Get Pictures, Videos etc.
