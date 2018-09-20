@@ -5,5 +5,6 @@ Website for "Canadian BMX" (Project) \\ REPO
 
 
 ### To Do:
-- []Do this
-  - []And that
+- []Main Idea of whole Website
+  - []What type of website, using paper to help, what will it look like
+- []Complete sketches on paper
